@@ -1,7 +1,7 @@
-package manager;
+package ru.netology.manager;
 
 import com.github.javafaker.Faker;
-import domain.UserData;
+import ru.netology.domain.UserData;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
